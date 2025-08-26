@@ -1,0 +1,20 @@
+[
+  {
+    "word": "apple",
+    "translation": "яблоко",
+    "examples": [
+      "I eat an apple every day.",
+      "The apple is red.",
+      "She bought a green apple."
+    ]
+  },
+  {
+    "word": "run",
+    "translation": "бежать",
+    "examples": [
+      "I run in the park.",
+      "He can run fast.",
+      "They run every morning."
+    ]
+  }
+]
