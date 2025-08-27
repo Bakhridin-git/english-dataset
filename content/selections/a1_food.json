@@ -1,1 +1,27 @@
-
+{
+  "id": "a1_food",
+  "title": "A1: Food",
+  "description": "Базовые продукты питания для начинающих.",
+  "words": [
+    "Apple",
+    "Bread",
+    "Water",
+    "Milk",
+    "Egg",
+    "Cheese",
+    "Rice",
+    "Chicken",
+    "Fish",
+    "Meat",
+    "Soup",
+    "Potato",
+    "Tomato",
+    "Onion",
+    "Carrot",
+    "Apple juice",
+    "Tea",
+    "Coffee",
+    "Salt",
+    "Sugar"
+  ]
+}
